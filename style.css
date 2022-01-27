@@ -15,6 +15,11 @@ h2 {
   font-family: 'Times New Roman', Times, serif;
   font-size: 30pt;
 }
+
+#nava {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .jumbotron {
   padding: 5rem 5rem;
   background-color: #e2edff;
@@ -22,7 +27,4 @@ h2 {
 
 #projects {
   background-color: #e2edff;
-}
-#about {
-  font-style: 'img/';
 }
