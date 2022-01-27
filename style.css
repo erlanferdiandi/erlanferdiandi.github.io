@@ -2,6 +2,19 @@ body {
   min-height: 2000px;
 }
 
+@font-face {
+  font-family: wancester;
+  src: url(font/WancesterSignature.ttf);
+}
+
+h1 {
+  font-family: wancester;
+  font-size: 70pt;
+}
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30pt;
+}
 .jumbotron {
   padding: 5rem 5rem;
   background-color: #e2edff;
@@ -9,4 +22,7 @@ body {
 
 #projects {
   background-color: #e2edff;
+}
+#about {
+  font-style: 'img/';
 }
